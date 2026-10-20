@@ -98,5 +98,5 @@ The dataset contains **3,941 customer records** with the following key behaviora
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/ecommerce-user-churn-prediction.git](https://github.com/farhanadilumarkhan/Ecommerce-User-Churn-Prediction.git)
-   cd ecommerce-user-churn-prediction
+   git clone [https://github.com/farhanadilumarkhan/Ecommerce-User-Churn-Prediction.git](https://github.com/farhanadilumarkhan/Ecommerce-User-Churn-Prediction.git)
+   cd Ecommerce-User-Churn-Prediction
